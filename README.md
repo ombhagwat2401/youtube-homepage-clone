@@ -1,3 +1,10 @@
+# Project screenshots
+![image](https://github.com/ombhagwat2401/youtube-homepage-clone/assets/144040483/43233746-c559-4d0e-a8bb-ab9dbf1a12d3)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
