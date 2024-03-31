@@ -1,0 +1,169 @@
+.search_video_container{
+    width: 80%;
+    margin: auto;
+    padding-left: 70px;
+}
+
+.search_video_container .video{
+    display: flex;
+    margin-top: 20px;
+}
+
+.search_video_container .video_cont{
+    width: 40%;
+}
+
+.search_video_container .video img{
+    width: 100% !important;
+    border-radius: 10px;
+}
+
+.search_video_container .video_details h4, .search_video_container .video_details p{
+    margin: 0px;
+    
+}
+
+.search_video_container .video_details{
+    width: 40%;
+    padding-left: 20px;
+}
+
+.search_video_container .video_details p{
+    margin: 10px 0 !important;
+    color: grey;
+}
+
+.video_details span{
+    margin-left: 10px ;
+}
+.search_video_container .video_details{
+    text-align: left;
+    margin: 0;
+}
+
+.search_video_container .video_details img{
+    width: 30px !important;
+    height: 30px;
+    border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.loading_video{
+    display: flex;
+    margin-top: 20px;
+}
+
+.search_video_container .loading_video .video_cont{
+    width: 40%;
+}
+
+.search_video_container .loading_video .video_thumbnail{
+    width: 100% !important;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    height: 250px;
+    animation: b 2s ease-in-out infinite;
+}
+
+
+
+.search_video_container .loading_video .video_details{
+    width: 40%;
+    padding-left: 20px;
+}
+
+.search_video_container .loading_video .video_details .h4{
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 10px;
+    animation: b 2s ease-in-out infinite;
+}
+
+.search_video_container .loading_video .video_details p{
+    margin: 10px 0;
+    color: #f2f2f2;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    width: 80%;
+    animation: b 2s ease-in-out infinite;
+}
+
+.loading_video .video_details span{
+    margin-left: 10px ;
+    background-color: #f2f2f2;
+    color: #f2f2f2;
+    border-radius: 10px;
+    animation: b 2s ease-in-out infinite;
+    width: 30%;
+}
+.search_video_container .loading_video .video_details{
+    text-align: left;
+    margin: 0;
+}
+
+.search_video_container .loading_video .video_details .img{
+    width: 30px !important;
+    height: 30px;
+    background-color: #f2f2f2;
+    border-radius: 50px;
+    animation: b 2s ease-in-out infinite;
+}
+
+
+
+@keyframes  b {
+    0%{
+        background-color: #f2f2f2;
+    }
+
+    50%{
+        background-color: #e7e7e7;
+    }
+
+    100%{
+        background-color: #f2f2f2;
+    }
+}

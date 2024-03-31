@@ -1,0 +1,20 @@
+.omietube__sidebar{
+position: fixed;
+background-color: #fff;
+left: 0px;
+top: 50px;
+
+}
+
+.omietube__sidebar .icon{
+    font-size: 30px;
+}
+
+.omietube__sidebar p{
+    margin: 0px;
+    font-size: 10px;
+}
+
+.sidebar_icons{
+    padding: 10px;
+}

@@ -1,0 +1,82 @@
+.omietube__homepageloader{
+    padding-left: 70px;
+    
+    }
+    
+
+    .omietube__homepageloader .video_container{
+        text-align: justify;
+    }
+
+    .omietube__homepageloader .video_container .video{
+        width: 31.5%;
+        display: inline-block;
+        text-align: left;
+        margin: 10px;
+        margin-top: 20px;
+        
+    
+    }
+    
+    .omietube__homepageloader .video_container .video .video_thumbnail{
+        width: 100%;
+        border-radius: 10px;
+        background-color: #f2f2f2;
+        height: 250px;
+        animation: b 2s ease-in-out infinite;
+    }
+    
+    .omietube__homepageloader .video_container .video .video_details{
+        display: flex;
+        text-align: left;
+        padding-top: 10px;
+        width: 100%;
+    }
+    
+    .omietube__homepageloader .video_container .video .video_details .img{
+        width: 40px;
+        height: 40px;
+        border-radius: 50px;
+        background: #f2f2f2;
+        animation: b 2s ease-in-out infinite;
+    }
+    .omietube__homepageloader .video_container .video .all_details{
+        margin-left: 10px;
+    }
+    
+    .omietube__homepageloader .video_container .video .video_details h4, .video .video_details p{
+        margin: 0px;
+    }
+
+    .omietube__homepageloader .video_container .video .video_details .h4{
+        background-color: #f2f2f2;
+        width: 360px !important;
+        padding: 10px;
+        border-radius: 5px;
+        animation: b 2s ease-in-out infinite;
+    }
+    
+    .omietube__homepageloader .video_container .video .video_details p{
+        color: #f2f2f2;
+        width: 260px !important;
+        background-color: #f2f2f2;
+        margin-top: 5px;
+        border-radius: 5px;
+        animation: b 2s ease-in-out infinite;
+    }
+
+
+
+    @keyframes  b {
+        0%{
+            background-color: #f2f2f2;
+        }
+
+        50%{
+            background-color: #e7e7e7;
+        }
+
+        100%{
+            background-color: #f2f2f2;
+        }
+    }

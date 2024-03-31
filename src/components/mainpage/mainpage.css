@@ -1,0 +1,70 @@
+.omietube__mainpage{
+padding-left: 70px;
+
+}
+
+.omietube__mainpage .tagsdiv{
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+    box-sizing: border-box;
+    position: fixed;
+    background-color: #fff;
+    
+}
+
+
+.omietube__mainpage .tagsdiv span{
+    background: #f2f2f2;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 0px 5px;
+    
+}
+
+.omietube__mainpage .tagsdiv .active{
+    background-color: #000;
+    color: #fff;
+}
+
+.video_container{
+    text-align: justify;
+}
+.video_container .video{
+    width: 31.5%;
+    display: inline-block;
+    text-align: left;
+    margin: 10px;
+    margin-top: 20px;
+
+}
+
+.video_container .video .video_thumbnail{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.video_container .video .video_details{
+    display: flex;
+    text-align: left;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.video_container .video .video_details img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+.video_container .video .all_details{
+    margin-left: 10px;
+}
+
+.video_container .video .video_details h4, .video .video_details p{
+    margin: 0px;
+}
+
+.video_container .video .video_details p{
+    color: grey;
+    width: 100%;
+}
