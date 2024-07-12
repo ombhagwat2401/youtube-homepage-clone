@@ -1,7 +1,9 @@
-# Project screenshots
-![image](https://github.com/ombhagwat2401/youtube-homepage-clone/assets/144040483/43233746-c559-4d0e-a8bb-ab9dbf1a12d3)
+# Youtube Homepage Clone
+
+# Project Demo
 
 
+https://github.com/user-attachments/assets/845ff366-6a8b-458e-88d1-a0c6a9fca2e8
 
 
 
